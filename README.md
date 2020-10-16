@@ -56,3 +56,6 @@ Algorithm MarkMix
    Result ← MakeColor(r, g, b)
 End Algorithm MarkMix
 ```
+##Example colors and boundaries
+
+<img src="./aiq-colors.jpg"> 
